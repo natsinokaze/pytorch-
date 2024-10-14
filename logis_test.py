@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 save_dir=r'G:\deep_learning\test\save_model'
 
 '''
-神经网络进行非线性拟合的例子，两个输入特征去拟合有个倒立的螺旋函数
+神经网络进行非线性拟合的例子，两个输入特征去拟合一个倒立的螺旋函数
 '''
 import numpy as np
 import matplotlib.pyplot as plt
